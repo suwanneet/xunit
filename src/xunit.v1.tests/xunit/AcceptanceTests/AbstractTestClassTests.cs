@@ -1,7 +1,7 @@
 ﻿using System.Xml;
 using TestUtility;
 using Xunit;
-
+ 
 namespace Xunit1
 {
 	public class AbstractTestClassTests : AcceptanceTestInNewAppDomain
